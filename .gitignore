@@ -5,3 +5,4 @@
 *.bmp
 .ipynb_checkpoints/
 /breathing_data
+*.dcm
